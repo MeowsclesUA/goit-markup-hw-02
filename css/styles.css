@@ -116,7 +116,9 @@ a {
     color: #434455;
 }
 
-.third-section {}
+.third-section {
+    background-color: #F4F4FD;
+}
 
 .third-section-title {
     font-family: "Roboto" sans-serif;
