@@ -131,11 +131,11 @@ a {
     color: #2e2f42;
 }
 
-.third-section-list {
+.third-section-list {}
+
+.third-section-item {
     background-color: #FFFFFF;
 }
-
-.third-section-item {}
 
 .third-section-img {}
 
